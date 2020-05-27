@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0afe3b"],{"0ff5":function(e,n,r){"use strict";r.r(n);var t=function(){var e=this,n=e.$createElement,r=e._self._c||n;return r("div",{staticClass:"vx-error"},[e._v("参数不正确")])},a=[],s={name:"vx-error"},c=s,l=r("2877"),u=Object(l["a"])(c,t,a,!1,null,null,null);n["default"]=u.exports}}]);
