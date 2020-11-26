@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[6],{Jqcq:function(e,n,a){"use strict";a.r(n);var t=a("R7z2"),l=a.n(t);a("XKI3"),a("MMAZ"),a("eOZV"),a("8HZW");n["default"]=function(){return l.a.createElement(l.a.Fragment,null,l.a.createElement("div",{className:"markdown"},l.a.createElement("p",null,"'# Hello dumi!' ")))}}}]);
